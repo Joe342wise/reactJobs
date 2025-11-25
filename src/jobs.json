@@ -87,15 +87,15 @@
     {
       "id": "19a7",
       "title": "Test, Part-Time",
-      "type": "Part-Time",
+      "type": "Internship",
       "location": "Test Location",
-      "description": "I am testing my work",
+      "description": "I am testing my work\nLet us see if it works.",
       "salary": "Under $50K",
       "company": {
         "name": "Test Info",
         "description": "Test Description of my first React app",
         "contactEmail": "test@example.com",
-        "contactPhone": "5555555555"
+        "contactPhone": "5551239876"
       }
     }
   ]
